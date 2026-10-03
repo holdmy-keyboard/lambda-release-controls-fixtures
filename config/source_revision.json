@@ -1,1 +1,1 @@
-{"revision": "old-setup-2026-10-03", "purpose": "Development snapshot with corrected handler and measurement safeguards; no experiment observations."}
+{"revision": "old-setup-2026-10-04", "purpose": "Pre-experiment correction: role ARN, bounded signing, timeout evidence and observer identity."}
